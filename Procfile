@@ -1,1 +1,1 @@
-web: webservice.exe
+web: ./bin/WebService
